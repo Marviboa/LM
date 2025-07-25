@@ -1,0 +1,1 @@
+// Simulated content for backend/routes/aeronaves.js

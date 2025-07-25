@@ -1,1 +1,1 @@
-# LM
+// Simulated content for frontend/README.md
